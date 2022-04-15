@@ -1,4 +1,4 @@
-name: Stale check for issues or PRs with "needs SME" label
+Hi-World: Stale check for issues or PRs with "needs SME" label
 
 # **What it does**: Provides stale checks on issues/PRs that need SME(subject matter expert) review on open source docs repo.
 # **Why we have it**: In the open repo, we want we want frequent checks on issues/PRs that are waiting on SME review.
